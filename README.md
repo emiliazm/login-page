@@ -20,6 +20,9 @@ Setting up this project locally:
 - Install npm package: npm install.
 - Run website: npm run dev.
 
+## Live Demo
+
+[Login Page](https://takyon-login-page.netlify.app/)
 
 ## Authors
 
